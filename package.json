@@ -63,5 +63,9 @@
     "eslint": "^8.23.0",
     "eslint-plugin-react": "^7.22.0",
     "sass": "^1.54.8"
+  },
+  "engines": {
+    "node": ">=18.20.0",
+    "npm": ">=9.0.0"
   }
 }

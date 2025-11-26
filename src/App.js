@@ -11,6 +11,7 @@ const Contact = lazy(() => import("./pages/Contact"));
 
 function App() {
   useEffect(() => {
+    // Initialize AOS animation library
     AOS.init({
         offset: 80,
         duration: 1000,

@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "title": "About Us",
+        "list": [
+            {
+            "id": 1,
+            "text": "About Team",
+            "url": "/about"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Products",
+        "list": [
+            {
+            "id": 1,
+            "text": "Automated External Defibrillator (AED)",
+            "url": "/service"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Blog",
+        "list": [
+            {
+            "id": 1,
+            "text": "Articles",
+            "url": "/blog-grid"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Contact",
+        "list": [
+            {
+            "id": 1,
+            "text": "Phone",
+            "url": "/contact"
+            },
+            {
+            "id": 2,
+            "text": "Email",
+            "url":  "/contact"
+            },
+            {
+            "id": 3,
+            "text": "Address",
+            "url":  "/contact"
+            }
+        ]
+    }
+]

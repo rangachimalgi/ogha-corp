@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "image": "images/testimonial/90/author-1.png",
+        "desc": "We are completely satisfied with the quality of service that we get. Workers were respectful, efficient, accommodating, cleaned up thoroughly.",
+        "name": "Harshavardhan M Sali",
+        "position": "CPTO"
+    },
+    {
+        "id": 2,
+        "image": "images/testimonial/90/author-2.png",
+        "desc": "We are completely satisfied with the quality of service that we get. Workers were respectful, efficient, accommodating, cleaned up thoroughly.",
+        "name": "Harish Kumar",
+        "position": "CEO and MD"
+    }
+]

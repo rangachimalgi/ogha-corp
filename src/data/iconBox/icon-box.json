@@ -1,0 +1,27 @@
+[
+    {
+        "id": "1",
+        "icon": "images/svg/linea/linea-basic-target.svg",
+        "title": "START",
+        "desc": "Opening the AED case will automatically power on. Ensure no obstructs to access the patient's chest.",
+        "pageLink": "Learn More",
+        "link": "service"
+    },
+    {
+        "id": "2",
+        "icon": "images/svg/linea/linea-basic-gear.svg",
+        "title": "ANALYSE",
+        "desc": "Attach two pads to the patient. Ensure that no one, including yourself, is touching the patient. ",
+        "pageLink": "Learn More",
+        "link": "service"
+    },
+    {
+        "id": "3",
+        "icon": "images/svg/linea/linea-basic-bolt.svg",
+        "title": "SHOCK",
+        "desc": "If a shock is required, the AED will administer it automatically; otherwise, initiate or resume CPR.",
+        "pageLink": "Learn More",
+        "link": "service"
+    }
+    
+]

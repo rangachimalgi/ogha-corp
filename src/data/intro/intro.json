@@ -1,0 +1,20 @@
+[
+    {
+        "id": "1",
+        "title": "Emergency Care and Resuscitation Products",
+        "desc": "Automated External Defibrillator (AED) is a pivotal emergency tool designed to treat individuals experiencing cardiovasucal emergency.",
+        "backgroundImage": "/images/aed-photo/IMG_7582.jpg"
+    },
+    {
+        "id": "2",
+        "title": "Light Weight, Ultra Portable Device",
+        "desc": "Essential in public spaces and critical during the first response, AEDs significantly increase the chances of survival in cardiac emergencies, making them indispensable in modern first aid and emergency medical care.",
+        "backgroundImage": "/images/aed-photo/IMG_7635.jpg"
+    },
+    {
+        "id": "3",
+        "title": "Facilitates seamless Three-Step Operation",
+        "desc": "Power on the AED by opening the case, ensuring unobstructed chest access, attaching pads, and maintaining a clear space during analysis. The AED automatically delivers a shock if needed; otherwise, proceed with CPR.",
+        "backgroundImage": "/images/aed-photo/IMG_7608.jpg"
+    }
+]

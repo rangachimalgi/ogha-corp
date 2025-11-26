@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "image": "images/blog/dinesh.jpg",
+        "largeImage": "images/blog/dinesh.jpg",
+        "date": "1 Nov 2023",
+        "title": "Karnataka launches Dr Puneeth Rajkumar Hrudaya Jyoti Yojana for cardiac emergencies.",
+        "link": "https://www.hindustantimes.com/cities/bengaluru-news/karnataka-launches-dr-puneeth-rajkumar-hrudaya-jyoti-yojana-for-cardiac-emergencies-101698813975871.html"
+    },
+    {
+        "id": 2,
+        "image": "images/blog/indianexpress.jpg",
+        "largeImage": "images/blog/indianexpress.jpg",
+        "date": "4 Sep 2023",
+        "title": "Sudden cardiac arrest: Why we need CPR training and life-saving devices in public places.",
+        "link": "https://indianexpress.com/article/health-wellness/sudden-cardiac-arrest-patients-life-saving-devices-public-places-lancet-8923605/"
+    },
+    {
+        "id": 3,
+        "image": "images/blog/harishroa.jpg",
+        "largeImage": "images/blog/harishroa.jpg",
+        "date": "27 March 2023",
+        "title": "Automatic defibrillators to be made mandatory soon in industries, public spaces: Harish Rao.",
+        "link": "https://telanganatoday.com/automatic-defibrillators-to-be-made-mandatory-soon-in-industries-public-spaces-harish-rao"
+    },
+    {
+        "id": 4,
+        "image": "images/blog/rituraj.jpg",
+        "largeImage": "images/blog/rituraj.jpg",
+        "date": "21 Feb 2024",
+        "title": "Actor Rituraj Singh dies of cardiac arrest at 59",
+        "link": "https://indianexpress.com/article/entertainment/television/anupamaa-actor-rituraj-singh-dies-at-59-after-suffering-cardiac-arrest-9170431/"
+    },
+    {
+        "id": 5,
+        "image": "images/blog/hoysala.jpg",
+        "largeImage": "images/blog/hoysala.jpg",
+        "date": "23 Feb 2024",
+        "title": "Cricketer Hoysala K Dies Due To Cardiac Arrest After Match In Bengaluru.",
+        "link": "https://timesofindia.indiatimes.com/sports/cricket/news/karnataka-cricketer-hoysala-dies-at-34-due-to-cardiac-arrest/articleshow/107949669.cms"
+    },
+    {
+        "id": 6,
+        "image": "images/blog/celeb.jpg",
+        "largeImage": "images/blog/celeb.jpg",
+        "date": "27 March 2023",
+        "title": "KK To Sidharth Shukla: Celebs Who Died Due To Cardiac Arrest",
+        "link": "https://zeenews.india.com/people/rituraj-singh-to-sidharth-shukla-actors-who-died-due-to-cardiac-arrest-2723098.html"
+    }
+
+]
